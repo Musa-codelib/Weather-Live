@@ -40,6 +40,12 @@ This CSS file styles the web application. It provides a clean and visually appea
 
 ## Screenshots
 
+![start](https://github.com/Musa-codelib/Weather-Live/assets/136096862/8e1a8b11-6bd2-47ad-9797-6762237c0c31)
 
+![0](https://github.com/Musa-codelib/Weather-Live/assets/136096862/f14a2d34-af5e-4673-a2b8-3a58a11b2985)
+
+![error](https://github.com/Musa-codelib/Weather-Live/assets/136096862/0ea19f4c-ee2f-4e71-9225-a910dfa54732)
+
+![1](https://github.com/Musa-codelib/Weather-Live/assets/136096862/90262330-e158-4186-8019-a065fae153eb)
 
 Feel free to ask questions :)
