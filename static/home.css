@@ -1,0 +1,70 @@
+/* home.css */
+
+body {
+    /* background-image: url('background.jpg'); */
+    background-color: rgb(133, 238, 29);
+    /* background-size: cover; */
+    font-family: sans-serif;
+    margin-top: 40px;
+    height: 100%;
+    width: 100%;
+}
+
+.regform {
+    background-color: #777777;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.main-form {
+    margin: 15px;
+}
+
+.input-field {
+    font-size: 18px;
+    padding: 10px;
+    width: 300px;
+}
+
+.btn-outline-success {
+    color: #fff;
+    background-color: #61dafb;
+    border-color: #61dafb;
+    transition: background-color 0.3s ease;
+}
+
+.btn-outline-success:hover {
+    background-color: #282c34;
+}
+
+.error-message {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.weather-info {
+    background-color: #282c34;
+    color: #61dafb;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.weather-details h2 {
+    font-size: 24px;
+}
+
+.weather-extra,
+.weather-forecast {
+    margin-top: 20px;
+}
+
+.weather-extra p,
+.weather-forecast p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
