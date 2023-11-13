@@ -40,12 +40,6 @@ This CSS file styles the web application. It provides a clean and visually appea
 
 ## Screenshots
 
-![Screenshot 1](/UI/start.png)
 
-![Screenshot 2](/UI/0.png)
-
-![Screenshot 3](/UI/error.png)
-
-![Screenshot 3](/UI/1.png)
 
 Feel free to ask questions :)
