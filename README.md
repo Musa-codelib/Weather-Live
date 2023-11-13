@@ -38,7 +38,7 @@ This CSS file styles the web application. It provides a clean and visually appea
 
 4. Open a web browser and navigate to `http://127.0.0.1:5000/` to use the live weather web app. Enter a location in the input field and click "Search" to view the current weather and a 3-day forecast.
 
-## Screenshots
+## UI/Web-app/Screenshots
 
 ![start](https://github.com/Musa-codelib/Weather-Live/assets/136096862/8e1a8b11-6bd2-47ad-9797-6762237c0c31)
 
